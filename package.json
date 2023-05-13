@@ -1,21 +1,21 @@
 {
-  "name": "project-movieworld",
+  "name": "filmen",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://made-by-curiosity.github.io/project-movieworld",
+  "homepage": "https://braunalex74.github.io/filmen",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-movieworld/"
+    "build": "parcel build src/*.html --public-url /filmen/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/made-by-curiosity/project-movieworld.git"
+    "url": "git+https://github.com/braunalex74/filmen.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/made-by-curiosity/project-movieworld/issues"
+    "url": "https://github.com/braunalex74/filmen/issues"
   },
   "dependencies": {
     "axios": "^1.4.0",
