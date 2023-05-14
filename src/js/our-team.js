@@ -67,7 +67,7 @@ export const ourTeam = [
     name: 'Oleksandr Braun',
     dev: 'Developer',
     photo:
-      'https://github.com/made-by-curiosity/project-movieworld/blob/main/src/images/our-team/dev10.png?raw=true',
+      'https://github.com/made-by-curiosity/project-movieworld/blob/main/src/images/our-team/dev10.jpg?raw=true',
   },
   {
     id: 11,
